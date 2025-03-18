@@ -1,7 +1,7 @@
 import './App.css';
 import Nav from './nav.jsx';
 import Nav1 from './body1.jsx';
-import Nav11 from './nav1.jsx';
+import Nav11 from './new1.jsx';
 import Nav2 from './body2.jsx';
 import Nav3 from './body3.jsx';
 import Nav4 from './body4.jsx';
