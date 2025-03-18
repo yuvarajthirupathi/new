@@ -29,7 +29,7 @@ function FeaturedBlogs() {
               <img src={item.image} alt="Blog" style={{ width: '100%', height: '150px', }} />
               <div style={{ padding: '10px' }}>
                 <p style={{ fontSize: '14px', marginBottom: '10px', color: '#333' }}>{item.title}</p>
-                <a href="#" style={{ color: 'purple', textDecoration: 'none', fontWeight: 'bold', fontSize: '13px' }}>Read More →</a>
+                <a href=" " style={{ color: 'purple', textDecoration: 'none', fontWeight: 'bold', fontSize: '13px' }}>Read More →</a>
               </div>
             </div>
           );
